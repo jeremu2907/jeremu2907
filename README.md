@@ -1,4 +1,4 @@
-![My GitHub Lang Stats](https://github-stats.agentbot.xyz/api/top-langs/?username=jeremu2907&theme=codeSTACKr&layout=compact)
+![My GitHub Lang Stats](https://github-stats.agentbot.xyz/api/top-langs/?username=jeremu2907&theme=codeSTACKr)
 
 ![My GitHub Stats](https://github-stats.agentbot.xyz/api?username=jeremu2907&count_private=true&show_icons=true&theme=codeSTACKr)
 

@@ -6,4 +6,4 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeremu2907&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
-[embed]https://github.com/jeremu2907/jeremu2907/blob/main/UpdatedResume.pdf[/embed]
+[embed]https://github.com/jeremu2907/jeremu2907/blob/main/UpdatedResume.pdf

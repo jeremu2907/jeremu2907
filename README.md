@@ -8,7 +8,7 @@
 - ☕️ Coffee addict, unfortunately
 - 🍜 Ramen addict, also unfortunately
 
-### Stuff I think I can do
+## Stuff I think I can do 🤙
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,java,javascript,python,typescript,bash,git,github,django,fastapi,express,react,html,css,aws,azure,docker,linux,mysql,mongodb,nginx,nodejs,postgres,cloudflare,docker,figma,gcp,supabase,solidity,&perline=10&theme=light)](https://skillicons.dev)
 
 <a href="https://git.io/streak-stats">

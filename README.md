@@ -4,12 +4,12 @@
 #### [🌐 Personal site](https://jeremynguyen.dev)   [👥 Linkedin](https://www.linkedin.com/in/jeremu2907/)
 
 ## Software Developer 💻
-- ⌨️ Fullstack development
-- ☁️ DevOps
-- 🎨 UI/UX
-- ⚛ Math and physics
-- ☕️ Coffee addict, unfortunately
-- 🍜 Ramen addict, also unfortunately
+  ⌨️ Fullstack development
+  ☁️ DevOps
+  🎨 UI/UX
+  ⚛ Math and physics
+  ☕️ Coffee addict, unfortunately
+  🍜 Ramen addict, also unfortunately
 
 ## Places I've been 💼
 <a href="https://www.l3harris.com/"><img height=50 alt="image" src="https://github.com/jeremu2907/jeremu2907/assets/89870941/888b8257-8475-448e-853d-25dbb352206a"></a><a href="https://nsin.mil/x-force/"><img height=50 alt="image" src="https://github.com/jeremu2907/jeremu2907/assets/89870941/d8ff57e6-3346-4f98-a3bc-ba416cce6ef1"></a><a href="https://www.army.mil/"><img height=50 alt="image" src="https://github.com/jeremu2907/jeremu2907/assets/89870941/1fff270b-f5cc-4e78-abce-9c23a082fc56"></a><a href="https://info.pplldr.com/"><img height=50 alt="image" src="https://github.com/jeremu2907/jeremu2907/assets/89870941/f26ee091-3c8b-4e6c-b04d-c8010c7f7fdc"></a>

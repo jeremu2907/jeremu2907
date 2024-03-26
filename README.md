@@ -16,7 +16,7 @@
 
 <img height=100 src="https://media.tenor.com/7lHdnabfyTQAAAAi/herta-kurukuru.gif" alt="spin" /><img height=100 src="https://media.tenor.com/hjK_rr07eLsAAAAi/bocchi-the-rock-ijichi-nijika.gif" alt="spin" /><img height=100 src="https://media.tenor.com/7lirhLLRJWAAAAAi/ai-hoshino-ai-dance.gif" alt="spin" /><img height=100 src="https://media.tenor.com/1cUMUU2xtgcAAAAi/padoru.gif" alt="spin" />
 
-## My Stats 📊
+## Time away from sunlight ⌨️
 <a href="https://git.io/streak-stats">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jeremu2907&theme=java-dark&hide_border=true&mode=weekly&background=041119&currStreakNum=DDDDDD&sideNums=DDDDDD&dates=DDDDDD&ring=00C9FF&sideLabels=DD5B01&currStreakLabel=DD5B01&stroke=DD5B01&fire=DDC900" />
 </a>

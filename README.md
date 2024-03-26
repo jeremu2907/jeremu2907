@@ -5,6 +5,7 @@
 ## Software Developer 💻
 - ⌨️ Fullstack development
 - ☁️ DevOps
+- 🎨 UI/UX
 - ☕️ Coffee addict, unfortunately
 - 🍜 Ramen addict, also unfortunately
 

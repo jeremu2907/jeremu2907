@@ -6,6 +6,7 @@
 - ⌨️ Fullstack development
 - ☁️ DevOps
 - 🎨 UI/UX
+- ⚛ Math and physics
 - ☕️ Coffee addict, unfortunately
 - 🍜 Ramen addict, also unfortunately
 

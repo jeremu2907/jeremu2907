@@ -1,12 +1,13 @@
-# Hi, I'm Jeremy Nguyen 💻
-## Software Developer
+<img width="1312" alt="image" src="https://github.com/jeremu2907/jeremu2907/assets/89870941/a6a2a15d-fce5-4b7a-9556-7e231485a955">
+
+## Software Developer 💻
 - ⌨️ Fullstack development
 - ☁️ DevOps
 - ☕️ Coffee addict, unfortunately
-- Visit me at [my personal site](https://jeremynguyen.dev)
+- 🌐 Visit me at [my personal site](https://jeremynguyen.dev)
 
 ### Stuff I think I can do
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,javascript,python,typescript,bash,git,github,django,fastapi,express,react,html,css,aws,azure,docker,linux,mysql,mongodb,nginx,nodejs,postgres,cloudflare,docker,figma,gcp,supabase,solidity,&perline=5&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,javascript,python,typescript,bash,git,github,django,fastapi,express,react,html,css,aws,azure,docker,linux,mysql,mongodb,nginx,nodejs,postgres,cloudflare,docker,figma,gcp,supabase,solidity,&perline=10&theme=light)](https://skillicons.dev)
 
 |My Commitment Issues|My Bias|
 |:-:|:-:|

@@ -22,7 +22,7 @@
 
 
 ## Stuff I think I can do 🤙
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,bash,c,cloudflare,cpp,css,docker,django,express,fastapi,figma,gcp,git,github,html,java,javascript,linux,markdown,mongodb,mysql,nextjs,nginx,nodejs,postgres,python,react,solidity,spring,supabase,typescript&perline=10&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,bash,c,cloudflare,cpp,css,docker,django,express,fastapi,figma,gcp,git,github,html,java,javascript,linux,markdown,mongodb,mysql,nextjs,nginx,nodejs,postgres,python,react,solidity,spring,supabase,typescript,vim&perline=10&theme=light)](https://skillicons.dev)
 
 <img height=100 src="https://media.tenor.com/7lHdnabfyTQAAAAi/herta-kurukuru.gif" alt="spin" /><img height=100 src="https://media.tenor.com/hjK_rr07eLsAAAAi/bocchi-the-rock-ijichi-nijika.gif" alt="spin" /><img height=100 src="https://media.tenor.com/7lirhLLRJWAAAAAi/ai-hoshino-ai-dance.gif" alt="spin" /><img height=100 src="https://media.tenor.com/1cUMUU2xtgcAAAAi/padoru.gif" alt="spin" />
 

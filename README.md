@@ -2,7 +2,7 @@
 
 
 ![Profile View](https://komarev.com/ghpvc/?username=jeremu2907&style=flat-square)
-#### [🌐 Personal site](https://jeremynguyen.dev)   [👥 Linkedin](https://www.linkedin.com/in/jeremu2907/)
+#### [🌐 Personal site](https://jeremyng.dev)   [👥 Linkedin](https://www.linkedin.com/in/jeremu2907/)
 
 ## Software Developer 💻
 ⌨️ Fullstack development

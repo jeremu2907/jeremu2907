@@ -1,8 +1,3 @@
-<img width="1312" alt="316724379-a6a2a15d-fce5-4b7a-9556-7e231485a955-min 2" src="https://github.com/jeremu2907/jeremu2907/assets/89870941/0d5d3945-e197-48d8-8184-f938e12421b4">
-
-
-![Profile View](https://komarev.com/ghpvc/?username=jeremu2907&style=flat-square)
-
 [👥 Linkedin](https://www.linkedin.com/in/jeremu2907/)
 
 ## Software Developer 💻

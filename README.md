@@ -1,4 +1,4 @@
-[👥 Linkedin](https://www.linkedin.com/in/jeremu2907/)
+<img width="1295" height="396" alt="Group 1" src="https://github.com/user-attachments/assets/56773b24-f5df-45e4-9b75-c96576483768" />
 
 ## Software Developer 💻
 ⌨️ Fullstack development

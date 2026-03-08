@@ -7,7 +7,7 @@
 
 🎨 UI/UX
 
-⚛ Math and physics
+⚛ [Math and physics](https://jeremu2907.github.io/math/)
 
 
 ## Places I've been 💼
